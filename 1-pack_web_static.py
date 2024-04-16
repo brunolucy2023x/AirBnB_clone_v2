@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# AirBnB_clone_v2
+# Bruno Okoth
 """
 Fabric script that generates a tgz archive from the contents of the web_static
 folder of the AirBnB Clone repo
