@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# AirBnB_clone_v2
+# Bruno Okoth
 """ holds class Review"""
 import models
 from models.base_model import BaseModel, Base

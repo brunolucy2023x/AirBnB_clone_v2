@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# AirBnB_clone_v2
+# Bruno Okoth
 """ holds class User"""
 import models
 from models.base_model import BaseModel, Base
