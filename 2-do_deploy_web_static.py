@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-# AirBnB_clone_v2
-# Bruno Okoth
 """
 Fabric script based on the file 1-pack_web_static.py that distributes an
 archive to the web servers
